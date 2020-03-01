@@ -6,9 +6,13 @@ One day my daughter, seeing me use the "real" microwave in the kitchen, said to 
 
 ![IKEA DUKTIG](https://www.ikea.com/it/it/images/products/duktig-play-kitchen__0756010_PE754469_S5.JPG?f=xs)
 
-And this is the final result:
+In this photo you can see the final result:
 
 ![IKEA DUKTIG with Timer](https://raw.githubusercontent.com/wiki/bobboteck/IkeaDuktigMicrowaveTimer/images/Ikea-duktig-microwave-timer.jpg)
+
+While here is a video showing how it works:
+
+[![](http://img.youtube.com/vi/e_eooSRmjGg/0.jpg)](http://www.youtube.com/watch?v=e_eooSRmjGg "")
 
 As you can see, there is a lot of free space in the front panel, in the final analysis I chose this solution that closes everything, in the future I could use that space to add other features.
 

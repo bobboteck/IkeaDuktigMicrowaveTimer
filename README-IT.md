@@ -6,9 +6,13 @@ Un giorno mia figlia, vedendomi usare il "vero" forno a microonde in cucina, mi 
 
 ![IKEA DUKTIG](https://www.ikea.com/it/it/images/products/duktig-play-kitchen__0756010_PE754469_S5.JPG?f=xs)
 
-E questo è il risultato finale:
+In questa foto puoi vedere il risultato finale:
 
 ![IKEA DUKTIG with Timer](https://raw.githubusercontent.com/wiki/bobboteck/IkeaDuktigMicrowaveTimer/images/Ikea-duktig-microwave-timer.jpg)
+
+Mentre qui c'è un video che ne mostra il funzionamento:
+
+[![](http://img.youtube.com/vi/e_eooSRmjGg/0.jpg)](http://www.youtube.com/watch?v=e_eooSRmjGg "")
 
 Come puoi vedere, c'è molto spazio libero nel pannello frontale, in ultima analisi ho scelto questa soluzione che chiude tutto, in futuro potrei usare quello spazio per aggiungere altre funzionalità.
 
