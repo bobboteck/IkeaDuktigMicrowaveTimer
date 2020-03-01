@@ -10,7 +10,7 @@ In this photo you can see the final result:
 
 ![IKEA DUKTIG with Timer](https://raw.githubusercontent.com/wiki/bobboteck/IkeaDuktigMicrowaveTimer/images/Ikea-duktig-microwave-timer.jpg)
 
-While here is a video showing how it works:
+Instead here is a video showing how it works:
 
 [![](http://img.youtube.com/vi/e_eooSRmjGg/0.jpg)](http://www.youtube.com/watch?v=e_eooSRmjGg "")
 
